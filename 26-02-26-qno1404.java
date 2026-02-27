@@ -4,6 +4,7 @@
 // Time: O(n)
 // Space: O(1)
 //Difficulty: Medium
+////Satus: //Sloved//
 class Solution{
     public int numSteps(String s){
         int c=0,carry=0;
